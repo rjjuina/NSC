@@ -4,3 +4,4 @@ icon/
 *.sublime-workspace
 tasks.todo
 *.pyc
+.idea
