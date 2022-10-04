@@ -3,222 +3,253 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>de.hanshelgebuerger.nsc</string>
+	<string></string>
+	<key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
-		<key>12D106C7-8A17-4333-8E91-416792BF3DF1</key>
+		<key>6B48F07E-A6CF-4E36-A14E-0628DF43DBBE</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+				<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+				<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
-		<key>2ADA98AB-9A5A-4120-8E3D-77E46EFC8A26</key>
+		<key>719AFF8B-2515-44DA-BF18-AA2A6CFD6DDC</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+				<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+				<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
-		<key>487DBA45-BBB4-43CC-B2C7-B173430C2431</key>
+		<key>B66F1BAF-8AA1-447E-A391-0F300CE1021C</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+				<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+				<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
-		<key>54CF4C34-B28A-4142-ABE9-D7E2947F9CE1</key>
+		<key>DCDB7318-7CE8-40F5-BC8F-6BAF3CEB6939</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+				<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+				<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
-		<key>F1FACC90-70D3-4747-B540-F12F5957E2F6</key>
+		<key>EB7B11F6-C895-47FF-A495-2F633BB9DF38</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+				<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+				<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
 			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Hans-Helge Buerger</string>
+	<string>rjia</string>
 	<key>description</key>
 	<string>Number System Converter</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>NSC</string>
+	<string>NSCR</string>
 	<key>objects</key>
 	<array>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>octal</string>
+				<string>decimal</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>converting ...</string>
 				<key>script</key>
-				<string>python convertOctal.py {query} 2&gt;&amp;1 | tee nsc.log</string>
-				<key>subtext</key>
-				<string>Type any octal number</string>
-				<key>title</key>
-				<string>convert octal</string>
-				<key>type</key>
+				<string>python3 convertDecimal.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<key>scriptargtype</key>
 				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type any decimal number</string>
+				<key>title</key>
+				<string>convert decimal</string>
+				<key>type</key>
+				<integer>5</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>487DBA45-BBB4-43CC-B2C7-B173430C2431</string>
+			<string>719AFF8B-2515-44DA-BF18-AA2A6CFD6DDC</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>convert</string>
-				<key>runningsubtext</key>
-				<string>converting ...</string>
-				<key>script</key>
-				<string>python convertNumber.py {query} 2&gt;&amp;1 | tee nsc.log</string>
-				<key>subtext</key>
-				<string>convert number to other system</string>
-				<key>title</key>
-				<string>convert a number</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
+			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>12D106C7-8A17-4333-8E91-416792BF3DF1</string>
+			<string>EB66E526-4A50-47DC-9240-104B83BAC07F</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>binary</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>converting ...</string>
 				<key>script</key>
-				<string>python convertBinary.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<string>python3 convertBinary.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
 				<key>subtext</key>
 				<string>Type any binary number</string>
 				<key>title</key>
 				<string>convert binary</string>
 				<key>type</key>
-				<integer>0</integer>
+				<integer>5</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>F1FACC90-70D3-4747-B540-F12F5957E2F6</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>hex</string>
-				<key>runningsubtext</key>
-				<string>converting ...</string>
-				<key>script</key>
-				<string>python convertHex.py {query} 2&gt;&amp;1 | tee nsc.log</string>
-				<key>subtext</key>
-				<string>Type any hexadecimal number</string>
-				<key>title</key>
-				<string>convert hex</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>2ADA98AB-9A5A-4120-8E3D-77E46EFC8A26</string>
+			<string>B66F1BAF-8AA1-447E-A391-0F300CE1021C</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -227,11 +258,7 @@
 				<false/>
 				<key>onlyshowifquerypopulated</key>
 				<true/>
-				<key>output</key>
-				<integer>0</integer>
 				<key>removeextension</key>
-				<false/>
-				<key>sticky</key>
 				<false/>
 				<key>text</key>
 				<string>The converted number {query} is copied to your clipboard.</string>
@@ -241,94 +268,215 @@
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>34E02C25-7316-4E16-BA4C-CFDB50B40404</string>
+			<string>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>decimal</string>
+				<string>octal</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
 				<key>runningsubtext</key>
 				<string>converting ...</string>
 				<key>script</key>
-				<string>python convertDecimal.py {query} 2&gt;&amp;1 | tee nsc.log</string>
-				<key>subtext</key>
-				<string>Type any decimal number</string>
-				<key>title</key>
-				<string>convert decimal</string>
-				<key>type</key>
+				<string>python3 convertOctal.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<key>scriptargtype</key>
 				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type any octal number</string>
+				<key>title</key>
+				<string>convert octal</string>
+				<key>type</key>
+				<integer>5</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>54CF4C34-B28A-4142-ABE9-D7E2947F9CE1</string>
+			<string>EB7B11F6-C895-47FF-A495-2F633BB9DF38</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>autopaste</key>
+				<key>alfredfiltersresults</key>
 				<false/>
-				<key>clipboardtext</key>
-				<string>{query}</string>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>hex</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>converting ...</string>
+				<key>script</key>
+				<string>python3 convertHex.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Type any hexadecimal number</string>
+				<key>title</key>
+				<string>convert hex</string>
+				<key>type</key>
+				<integer>5</integer>
+				<key>withspace</key>
+				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
+			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>98A7D303-C342-4AAF-A420-91FF93347CD3</string>
+			<string>6B48F07E-A6CF-4E36-A14E-0628DF43DBBE</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>convert</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>converting ...</string>
+				<key>script</key>
+				<string>python3 convertNumber.py {query} 2&gt;&amp;1 | tee nsc.log</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>convert number to other system</string>
+				<key>title</key>
+				<string>convert a number</string>
+				<key>type</key>
+				<integer>5</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>DCDB7318-7CE8-40F5-BC8F-6BAF3CEB6939</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>NSC is a nice workflow which converts your numbers into every other system.
-
-The most common ones are the decimal, binary, octal and hexadecimal. But NSC also converts other numbers.</string>
+	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>12D106C7-8A17-4333-8E91-416792BF3DF1</key>
+		<key>529EB79D-DDEC-4EE0-B604-0D2FE87F6ED8</key>
 		<dict>
+			<key>xpos</key>
+			<real>455</real>
 			<key>ypos</key>
-			<real>530</real>
+			<real>245</real>
 		</dict>
-		<key>2ADA98AB-9A5A-4120-8E3D-77E46EFC8A26</key>
+		<key>6B48F07E-A6CF-4E36-A14E-0628DF43DBBE</key>
 		<dict>
+			<key>xpos</key>
+			<real>55</real>
 			<key>ypos</key>
-			<real>420</real>
+			<real>465</real>
 		</dict>
-		<key>34E02C25-7316-4E16-BA4C-CFDB50B40404</key>
+		<key>719AFF8B-2515-44DA-BF18-AA2A6CFD6DDC</key>
 		<dict>
+			<key>xpos</key>
+			<real>55</real>
 			<key>ypos</key>
-			<real>200</real>
+			<real>135</real>
 		</dict>
-		<key>487DBA45-BBB4-43CC-B2C7-B173430C2431</key>
+		<key>B66F1BAF-8AA1-447E-A391-0F300CE1021C</key>
 		<dict>
+			<key>xpos</key>
+			<real>55</real>
 			<key>ypos</key>
-			<real>310</real>
+			<real>245</real>
 		</dict>
-		<key>54CF4C34-B28A-4142-ABE9-D7E2947F9CE1</key>
+		<key>DCDB7318-7CE8-40F5-BC8F-6BAF3CEB6939</key>
 		<dict>
+			<key>xpos</key>
+			<real>55</real>
 			<key>ypos</key>
-			<real>90</real>
+			<real>575</real>
 		</dict>
-		<key>98A7D303-C342-4AAF-A420-91FF93347CD3</key>
+		<key>EB66E526-4A50-47DC-9240-104B83BAC07F</key>
 		<dict>
+			<key>xpos</key>
+			<real>455</real>
 			<key>ypos</key>
-			<real>90</real>
+			<real>135</real>
 		</dict>
-		<key>F1FACC90-70D3-4747-B540-F12F5957E2F6</key>
+		<key>EB7B11F6-C895-47FF-A495-2F633BB9DF38</key>
 		<dict>
+			<key>xpos</key>
+			<real>55</real>
 			<key>ypos</key>
-			<real>200</real>
+			<real>355</real>
 		</dict>
 	</dict>
-	<key>version</key>
-	<string>2.4</string>
+	<key>userconfigurationconfig</key>
+	<array/>
 	<key>webaddress</key>
-	<string>http://hanshelgebuerger.de</string>
+	<string></string>
 </dict>
 </plist>

@@ -1,0 +1,1 @@
+{"items": [{"title": "256", "subtitle": "Decimal", "uid": "decimal", "valid": true, "arg": "256", "icon": "icons/decimal.png"}, {"title": "400", "subtitle": "Number to base 8", "uid": "conv", "valid": true, "arg": "400"}]}

@@ -1,3 +1,6 @@
+
+> update to with python3
+----------------------------------------------------------------------------------
 # NSC
 *Number System Converter -- an [Alfred](http://www.alfredapp.com/) extension*
 * * *
